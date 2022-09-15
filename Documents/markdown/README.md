@@ -12,4 +12,7 @@ Funcionalidades, iram constar aqui.
 * HTML
 
 ### Imagem local:
-![imagem qualquer](logoamarelo.jpg)
+![imagem qualquer]('logoamarelo.jpg)
+
+### Imagem externa:
+![logo da dc0](https://logosmarcas.net/wp-content/uploads/2020/08/DC-Emblema.png)
