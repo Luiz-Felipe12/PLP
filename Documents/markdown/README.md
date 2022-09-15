@@ -10,3 +10,6 @@ Funcionalidades, iram constar aqui.
 * JAVA
 *  RUBY
 * HTML
+
+### Imagem local:
+![imagem qualquer](logoamarelo.jpg)
