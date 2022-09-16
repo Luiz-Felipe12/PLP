@@ -18,4 +18,4 @@ Funcionalidades, iram constar aqui.
 ![logo da dc0](https://logosmarcas.net/wp-content/uploads/2020/08/DC-Emblema.png)
 
 ### Links:
-[Google](https;//www.google.com)
+[Google](https://www.google.com)
