@@ -22,3 +22,11 @@ Funcionalidades, iram constar aqui.
 
 
 [![logo dc](https://logosmarcas.net/wp-content/uploads/2020/08/DC-Emblema.png)](https://github.com/Luiz-Felipe12)
+
+### Código função soma:
+
+```javascript
+funtion soma(a,b){
+    return a+b;
+}
+```
